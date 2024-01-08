@@ -43,7 +43,7 @@ A Network enumeration is a procedure that establishes a reliable connection to t
 ![image](https://github.com/Ibarsjoel1234/Network-Enumeration/assets/35426719/80836f57-6ed3-4890-bdfb-3759d2a00afc)
 
 
-In general, uname command displays information about the system (Diary, n.d.). The output of uname -r offers information on the version of the kernel, whereas the output of uname -a provides information regarding the whole system. The operating system that is being used by the aforementioned computer is Linux. When you run the hostnamectl command without giving any parameters, you will get a summary of the current state of the home (Batool, 2021). 
+In general, uname command displays information about the system. The output of uname -r offers information on the version of the kernel, whereas the output of uname -a provides information regarding the whole system. The operating system that is being used by the aforementioned computer is Linux. When you run the hostnamectl command without giving any parameters, you will get a summary of the current state of the home. 
 
 These are a few of the commands that may be used to show information about the machine name, the operating system it uses, the name of the server, and other relevant details. Security experts use these commands to investigate and diagnose issues with networks and hosts in order to resolve such issues. On the other side, hackers are also using these instructions in an effort to get into the network or hack into it.
 
